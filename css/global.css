@@ -1,25 +1,10 @@
 body {
-  font-family: Roboto, sans-serif;
+  font-family: Georgia, sans-serif;
+  background: #333;
 }
-
-.saber-highlight {
-  background: #282c34;
-}
-
-.saber-highlight:before {
-  color: rgba(255, 255, 255, 0.4);
-}
-
-:not(pre) code {
+main-content {
+  width: 650px;
+  min-width: 50vw;
+  max-width: 90vw;
   background: #eee;
-  padding: 2px 3px;
-  border-radius: 3px;
-}
-
-p {
-  margin: 20px 0;
-}
-
-a {
-  color: blue;
 }

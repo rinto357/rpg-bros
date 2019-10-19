@@ -1,6 +1,5 @@
 <template>
-  <div>
-    <h1>This page uses the page layout!</h1>
+  <article class="article content">
     <slot name="default"/>
-  </div>
+  </article>
 </template>

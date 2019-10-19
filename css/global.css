@@ -2,7 +2,7 @@ body {
   font-family: Georgia, sans-serif;
   background: #333;
 }
-main-content {
+.main-content {
   margin: 0 auto;
   width: 650px;
   min-width: 50vw;

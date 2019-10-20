@@ -1,7 +1,10 @@
+@import url('https://fonts.googleapis.com/css?family=Lora|Open+Sans&display=swap');
+
 body {
-  font-family: Georgia, sans-serif;
+  font-family: 'Lora', serif;
   background: #333;
 }
+
 .main-content {
   padding: 1rem 2rem;
   border-radius: 10px;
@@ -10,4 +13,8 @@ body {
   min-width: 50vw;
   max-width: 90vw;
   background: #eee;
+}
+
+h1, h2, h3, h4, h5 {
+  font-family: 'Open Sans', sans-serif;
 }

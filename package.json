@@ -8,6 +8,8 @@
     "build": "saber build"
   },
   "dependencies": {
-    "saber": "^0.5.3"
+    "saber": "^0.5.3",
+    "markdown-it": "^10.0.0",
+    "markdown-it-attrs": "^3.0.1"
   }
 }

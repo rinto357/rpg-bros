@@ -1,5 +1,5 @@
 <template>
-  <article class="article content">
+  <article class="main-content">
     <slot name="default"/>
   </article>
 </template>

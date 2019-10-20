@@ -4,3 +4,8 @@
     <slot name="default"/>
   </article>
 </template>
+<script>
+  export default {
+    props:['page']
+  }
+</script>

@@ -3,6 +3,7 @@
 body {
   font-family: 'Lora', serif;
   background: #333;
+  box-sizing: border-box;
 }
 
 .main-content {

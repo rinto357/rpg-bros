@@ -1,6 +1,6 @@
 <template>
   <article class="main-content">
-    {{page.title}}
+    {{page.attributes.title}}
     {{$siteConfig.author}}
     <slot name="default"/>
   </article>

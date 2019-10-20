@@ -1,2 +1,10 @@
 permalinks:
   page: /:slug
+siteConfig:
+  title: RPG Bros
+  url: https://rpg-bros.netlify.com/
+  author: Rin and friends
+  description: "A document for my group's collaborative RPG"
+markdown:
+  plugins:
+    - resolve: markdown-it-attrs

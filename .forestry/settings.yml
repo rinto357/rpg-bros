@@ -7,8 +7,9 @@ sections:
 - type: document
   path: README.md
   label: Contributing
-  match: "**/*"
   read_only: true
+- type: heading
+  label: "---"
 - type: directory
   path: pages
   label: Pages

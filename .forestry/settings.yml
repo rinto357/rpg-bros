@@ -8,8 +8,6 @@ sections:
   path: README.md
   label: Contributing
   read_only: true
-- type: heading
-  label: "---"
 - type: directory
   path: pages
   label: Pages

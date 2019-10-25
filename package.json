@@ -1,6 +1,6 @@
 {
-  "name": "saber-sandbox",
-  "version": "1.0.0",
+  "name": "rpg-bros",
+  "version": "0.5.0",
   "description": "Simple Saber Sandbox",
   "scripts": {
     "start": "saber --port 8080",
@@ -10,6 +10,10 @@
   "dependencies": {
     "saber": "^0.5.3",
     "markdown-it": "^10.0.0",
-    "markdown-it-attrs": "^3.0.1"
+    "markdown-it-attrs": "^3.0.1",
+    "sass": "^1.23.0",
+    "sass-loader": "^7.1.0",
+    "stylus": "^0.54.5",
+    "stylus-loader": "^3.0.2"
   }
 }

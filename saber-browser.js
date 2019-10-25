@@ -1,5 +1,5 @@
 // @ points to current working directory
-import "@/css/global.css";
+import "@/styles/main.styl";
 
 export default ({ setHead }) => {
   setHead({

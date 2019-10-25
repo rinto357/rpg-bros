@@ -5,6 +5,12 @@ siteConfig:
   url: https://rpg-bros.netlify.com/
   author: Rin and friends
   description: A document for my group's collaborative RPG
+themeConfig:
+  nav:
+    - text: Home
+      link: /
+    - text: About
+      link: /about/
 markdown:
   plugins:
     - resolve: markdown-it-attrs

@@ -16,10 +16,11 @@ body
 
 a
   color $blue
-a:visited
-  color $blue
-a:hover
+a:not(:hover)
+  text-decoration none
+a.router-link-exact-active
   color $white
+  // text-decoration underline
 
 h1, h2, h3, h4, h5
   font-family 'Lora' serif

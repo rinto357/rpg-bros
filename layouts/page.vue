@@ -2,6 +2,7 @@
   <Wrap :page='page'>
     <article class="main-content">
       <slot name="default"/>
+      <p class="clear"></p>
     </article>
   </Wrap>
 </template>
@@ -9,7 +10,7 @@
   import Wrap from '../components/Wrap.vue'
   export default {
     components: {
-      Wrap: Wrap
+      Wrap: Wrap,
     },
     props:['page']
   }

@@ -1,18 +1,21 @@
 {
   "name": "rpg-bros",
   "version": "0.5.0",
-  "description": "Simple Saber Sandbox",
+  "description": "An RPG setting sandbox",
+  "private": true,
+  "repository": "",
+  "license": "",
   "scripts": {
     "start": "saber --port 8080",
     "dev": "npm run start",
     "build": "saber build"
   },
   "dependencies": {
-    "saber": "^0.5.3",
-    "markdown-it": "^10.0.0",
     "markdown-it-attrs": "^3.0.1",
-    "sass": "^1.23.0",
-    "sass-loader": "^7.1.0",
+    "markdown-it-container": "^2.0.0",
+    "markdown-it-mermaid": "^0.2.5",
+    "mermaid": "^8.4.0",
+    "saber": "^0.5.3",
     "stylus": "^0.54.5",
     "stylus-loader": "^3.0.2"
   }

@@ -4,11 +4,11 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
-- type: directory
-  path: pages
-  label: documents
-  create: all
+- type: document
+  path: README.md
+  label: README
   match: "**/*"
+  read_only: true
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''

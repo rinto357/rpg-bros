@@ -9,6 +9,3 @@ fields:
   label: layout
   description: the type of page this document will be rendered as
   default: page
-pages:
-- pages/index.md
-- pages/about.md

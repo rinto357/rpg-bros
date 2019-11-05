@@ -9,9 +9,10 @@ themeConfig:
   nav:
     - text: Home
       link: /
-    - text: About
+    - text: Game
       link: /game/
+    - text: Resources
+      link: /resources/
 markdown:
   plugins:
     - resolve: markdown-it-attrs
-

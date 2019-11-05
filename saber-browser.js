@@ -1,13 +1,13 @@
 // @ points to current working directory
-import "@/css/global.css";
+import "@/styles/main.styl";
 
 export default ({ setHead }) => {
-  setHead({
-    link: [
-      {
-        href: "https://fonts.googleapis.com/css?family=Roboto",
-        rel: "stylesheet"
-      }
-    ]
-  });
+  // setHead({
+  //   link: [
+  //     {
+  //       href: "https://fonts.googleapis.com/css?family=Roboto",
+  //       rel: "stylesheet"
+  //     }
+  //   ]
+  // });
 };

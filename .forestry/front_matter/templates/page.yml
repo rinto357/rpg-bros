@@ -16,4 +16,5 @@ fields:
   description: the type of page this document will be rendered as
   default: page
 pages:
+- pages/wb/mercari.md
 - pages/index.md

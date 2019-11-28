@@ -3,14 +3,15 @@ permalinks:
 siteConfig:
   title: RPG Bros
   url: https://rpg-bros.netlify.com/
-  author: Rin and friends
+  author: ""
   description: A document for my group's collaborative RPG
+  date: "2019"
 themeConfig:
   nav:
     - text: Home
       link: /
-    - text: Game
-      link: /game/
+    - text: Games
+      link: /games/
     - text: Resources
       link: /resources/
 markdown:

@@ -7,7 +7,7 @@
   "license": "",
   "scripts": {
     "start": "saber --port 8080",
-    "dev": "npm run start",
+    "direct": "python3 -m http.server",
     "build": "saber build"
   },
   "dependencies": {

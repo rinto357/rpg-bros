@@ -1,6 +1,6 @@
 <template>
   <div class="main-wrapper wrapper flex column">
-    <Header :siteTitle="siteTitle"/>
+    <Header v-if="page.header !== false" :siteTitle="siteTitle"/>
     <main class="grow">
       <slot></slot>
     </main>

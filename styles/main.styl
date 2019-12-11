@@ -2,7 +2,9 @@
 
 @import "./colors.styl"
 
-/* base */
+
+// base layout styles
+
 
 body
   display flex
@@ -14,21 +16,7 @@ body
   background $black
   color $white
 
-a
-  color $aqua
-a:not(:hover)
-  text-decoration none
-a.router-link-exact-active
-  color $white
-  // text-decoration underline
-
-h1, h2, h3, h4, h5
-  font-family 'Lora', serif
-
-header
-  margin-top 1rem
-
-.main-content
+.main-content, .site-header
   box-sizing border-box
   padding .25rem 1rem
   border-radius 10px
@@ -36,9 +24,43 @@ header
   width 650px
   min-width 50%
   max-width 100vw
-  background $charcoal
 
-/* utility */
+header
+  margin-top 1rem
+  background $charcoal
+  padding .5rem
+
+
+// typographic styles
+
+
+a
+  color $aqua
+a:not(:hover)
+  text-decoration none
+a.router-link-exact-active
+  color $white
+  text-decoration underline
+
+h1, h2, h3, h4, h5
+  font-family 'Lora', serif
+  margin-top 3rem
+
+h1
+  font-size 2rem
+h2
+  font-size 1.5rem
+h3
+  font-size 1.25rem
+
+blockquote
+  color $gray
+  border-left .25rem solid
+  padding 0 .75rem
+  margin 0px
+
+// utility classes
+
 
 .left
   float left

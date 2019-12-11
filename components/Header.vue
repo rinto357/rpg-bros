@@ -1,6 +1,6 @@
 <template>
-  <header class="site-header flex between">
-    <nav class="auto-center" v-if="$themeConfig.nav">
+  <header class="site-header auto-center">
+    <nav class="full flex around wrap" v-if="$themeConfig.nav">
       <span
         :key="index"
         class="page-link"
@@ -22,8 +22,15 @@ export default {
 };
 </script>
 <style lang="stylus" scoped>
+  .site-header
+    margin-top 1rem
+    margin-bottom 0rem
   .page-link
+    margin .5rem
     padding 0 1.5rem
-  .page-link:not(:last-child)
-    border-right 1px solid
+    // border 1px solid
+    // border-left 2px solid
+    // border-radius 5px
+  // .page-link:not(:last-child)
+  //   border-right 1px solid
 </style>

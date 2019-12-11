@@ -1,7 +1,5 @@
 ---
-title: home
+title: RPG Bros
 layout: page
 
 ---
-
-# RPG Bros

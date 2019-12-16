@@ -53,8 +53,8 @@ export default {
 };
 </script>
 <style scoped lang="stylus">
-.main-wrapper
-  display flex
-  min-height 100vh
-  flex-direction column
+  .main-wrapper
+    display flex
+    min-height 100vh
+    flex-direction column
 </style>

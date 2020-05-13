@@ -10,10 +10,10 @@ themeConfig:
   nav:
     - text: Home
       link: /
-    - text: Games
+    - text: Tabletop RPG
       link: /games/
-    - text: Resources
-      link: /resources/
+    - text: Pokemon
+      link: /pokemon/
 markdown:
   plugins:
     - resolve: markdown-it-attrs

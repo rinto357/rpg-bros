@@ -3,8 +3,12 @@ title: About
 layout: page
 
 ---
-## About The World
 
-Hello there! [Back Home](/).
+> It's dangerous to go alone! Take this!
 
-This file can be found at `./pages/about.md`, the layout file is `./layouts/page.vue`.
+## Rules References
+- [Fate SRD](https://fate-srd.com/)
+
+## Useful Generators
+- [Fantasy Maps](https://azgaar.github.io/Fantasy-Map-Generator/)
+- [Random Names](https://www.behindthename.com/random/)

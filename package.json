@@ -11,9 +11,9 @@
     "build": "saber build"
   },
   "dependencies": {
-    "markdown-it-attrs": "^3.0.1",
+    "markdown-it-attrs": "^3.0.2",
     "markdown-it-container": "^2.0.0",
-    "saber": "^0.11.3",
+    "saber": "^0.11.4",
     "stylus": "^0.54.5",
     "stylus-loader": "^3.0.2"
   }

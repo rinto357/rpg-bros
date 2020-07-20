@@ -1,8 +1,7 @@
 ---
-  layout: page
+title: Pokemon
+layout: page
 ---
-
-# Pokemon
 
 ## Fresh Rental Teams
 

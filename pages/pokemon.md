@@ -6,7 +6,7 @@
 
 ## Fresh Rental Teams
 
-- [The B Team](./the-b-team)
+- [The B Team](/pokemon/the-b-team)
 
 ## Retired Teams
 

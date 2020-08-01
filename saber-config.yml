@@ -5,15 +5,15 @@ siteConfig:
   url: https://rpg-bros.netlify.com/
   author: ""
   description: A document for my group's collaborative RPG
-  date: "2019"
+  date: "2019-2020"
 themeConfig:
   nav:
     - text: Home
       link: /
-    - text: Tabletop RPG
-      link: /games/
-    - text: Pokemon
-      link: /pokemon/
+    - text: Resources
+      link: /resources/
+    - text: Campaign
+      link: /game/
 markdown:
   plugins:
     - resolve: markdown-it-attrs

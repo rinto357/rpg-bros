@@ -1,5 +1,5 @@
 ---
-title: About
+title: Resources
 layout: page
 
 ---
@@ -7,6 +7,7 @@ layout: page
 > It's dangerous to go alone! Take this!
 
 ## Rules References
+- [Condensed](https://fate-srd.com/fate-condensed/introduction) (recommended)
 - [Fate SRD](https://fate-srd.com/)
 
 ## Useful Generators

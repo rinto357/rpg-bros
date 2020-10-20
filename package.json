@@ -11,11 +11,11 @@
     "build": "saber build"
   },
   "dependencies": {
-    "markdown-it-attrs": "^3.0.2",
+    "markdown-it-attrs": "^3.0.3",
     "markdown-it-container": "^2.0.0",
     "netlify-cms": "^2.10.54",
-    "saber": "^0.11.4",
-    "stylus": "^0.54.5",
+    "saber": "^0.11.7",
+    "stylus": "^0.54.8",
     "stylus-loader": "^3.0.2"
   }
 }

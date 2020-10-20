@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: rpg-bros.netlify.app
+Token: af40596c855f79de437ad208d1b79efc35d283302fdab837c719631da6d6c68b
